@@ -59,8 +59,8 @@ A comprehensive mental health tracking application with AI-powered voice emotion
 
 ### DevOps & Deployment
 - **Frontend Hosting**: Vercel (recommended)
-- **Backend Hosting**: Render, Railway, or AWS Lambda
-- **Database**: MongoDB Atlas
+- **Backend Hosting**: Render
+- **Database**: MongoDB Atlas/NoSQl
 - **File Storage**: Cloudinary or AWS S3
 - **Environment**: Docker support
 
@@ -163,10 +163,10 @@ mongod
 2. Get your API key
 3. Add `ASSEMBLYAI_API_KEY` to your `.env`
 
-**OpenAI** (for advanced text analysis):
-1. Sign up at [OpenAI](https://openai.com/)
+**GroqI** (for advanced text analysis):
+1. Sign up at (https://groq.com/)
 2. Create an API key
-3. Add `OPENAI_API_KEY` to your `.env`
+3. Add `GROQAI_API_KEY` to your `.env`
 
 ## 🏃‍♂️ Running the Application
 
