@@ -141,7 +141,7 @@ FRONTEND_URL=http://localhost:3000
 
 # AI Services (Optional but recommended)
 ASSEMBLYAI_API_KEY=your-assemblyai-key
-OPENAI_API_KEY=your-openai-key
+GROQAI_API_KEY=your-openai-key
 ```
 
 ### 5. Database Setup
