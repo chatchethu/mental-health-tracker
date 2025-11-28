@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chatchethu/mental-health-tracker/main/banner.png" alt="MindfulTrack Banner" />
+</p>
+
 # Mental Health Tracker
 
 A comprehensive mental health tracking application with AI-powered voice emotion analysis, mood tracking, and wellness insights.
