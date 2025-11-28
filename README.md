@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chatchethu/mental-health-tracker/main/banner.png" alt="MindfulTrack Banner" />
+  <img src="https://github.com/chatchethu/mental-health-tracker/raw/main/banner.png.png" alt="MindfulTrack Banner" />
 </p>
+
 
 # Mental Health Tracker
 
